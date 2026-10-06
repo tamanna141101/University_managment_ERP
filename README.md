@@ -1,17 +1,48 @@
-# SEISD_Project_ERP
-Java project on  a university course and routine managment
+# SEISD Project ERP
+
+A Java-based University Course and Routine Management System developed as an academic group project by CSE Department, Batch 18.
 
 ### Table of Contents
 
-* [Details](#Details)
-* [Documentation](#Documentation)
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [My Contribution](#my-contribution)
+- [Documentation](#documentation)
+- [Team Members](#members)
 
+## Project Overview
 
-## Details
-- A java project on University course and routine management
-- The Project basically reads fetches data from SQL and perform operation
-- This project was done by the batch 18 of CSE dept. 
+SEISD Project ERP is a university course and routine management system developed using Java.
 
+The project connects with a SQL database to fetch data and perform different operations related to university courses and routines.
+
+This project was developed as an academic group project by students of the CSE Department, Batch 18.
+
+## Features
+
+- University course management
+- University routine management
+- SQL database integration
+- Data fetching and processing
+- Admin functionality
+
+## Technologies Used
+
+- Java
+- SQL
+- Git & GitHub
+
+## My Contribution
+
+As a member of Group C, I contributed to the frontend design and user interface of the application.
+
+My responsibilities included:
+
+- Designing and improving the frontend/UI
+- Identifying and fixing bugs
+- Testing the application and resolving UI-related issues
+- Contributing code to the project repository
 
 
 - [**Admin**] 
