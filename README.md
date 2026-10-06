@@ -44,8 +44,7 @@ My responsibilities included:
 - Testing the application and resolving UI-related issues
 - Contributing code to the project repository
 
-
-- [**Admin**] 
+[**Admin**] 
 ```
 Admin userName : admin
 Admin password : CSE
