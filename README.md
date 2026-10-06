@@ -44,17 +44,18 @@ My responsibilities included:
 - Testing the application and resolving UI-related issues
 - Contributing code to the project repository
 
-[**Admin**] 
-```
-Admin userName : admin
-Admin password : CSE
-```
+
   
 ## Documentation
 - Clone the project <br>
 - Connect the Database
 - Ready to GO !!! <br>
 
+### Admin
+```
+Admin userName : admin
+Admin password : CSE
+```
 
 ## Members
 - Group A 
